@@ -31,13 +31,12 @@ This notebook is an extended visual analysis of hospital patient records. It bui
 | 1 | Setup & Data Preparation |
 | 2 | Patient Demographics |
 | 3 | Diagnosis Deep Dive |
-| 4 | Billing Amount Analysis *(optional)* |
-| 5 | Temporal Patterns |
-| 6 | Correlation Matrix |
-| 7 | Extended Stay Profiling |
-| 8 | Pair Plot |
-| 9 | Final Summary Dashboard |
-| 10 | Key Findings |
+| 4 | Temporal Patterns |
+| 5 | Correlation Matrix |
+| 6 | Extended Stay Profiling |
+| 7 | Pair Plot |
+| 8 | Final Summary Dashboard |
+| 9 | Key Findings |
 
 ---
 
